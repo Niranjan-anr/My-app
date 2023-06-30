@@ -16,7 +16,6 @@ const NeedyPeople = () => {
 
   return (
     <div className={classes.needyPeople}>
-      <h2>Our beloved Needy Person</h2>
       <ul>
         <h5>click on image for proofs and to know about him</h5>
         <li>

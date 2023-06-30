@@ -3,18 +3,14 @@
     padding: 20px;
     background-color: #f1f1f1;
     border: 1px solid #cccccc;
+
   }
   
   .image {
     margin-top:1rem;
-    width: 200px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 50%; /* Apply a circular border */
-  }
-  
-  .needyPeople h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
+    width: 200px; 
+    height: auto; 
+    border-radius:70%; 
   }
   
   .needyPeople ul {
@@ -29,5 +25,7 @@
   .needyPeople p {
     margin: 0;
     font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
   }
   
